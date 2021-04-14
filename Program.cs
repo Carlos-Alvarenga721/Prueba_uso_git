@@ -45,6 +45,7 @@ namespace For_dowhile_refuerzo
             }
             Console.ReadKey();
         }
+
         static void eje3()
         {
             //Digitar una lista de 7 números enteros desde el teclado. 
@@ -72,6 +73,11 @@ namespace For_dowhile_refuerzo
             Console.WriteLine($"La suma de los numeros entre 100 y 500 es {sumatoria}");
             Console.ReadKey();
 
+        }
+
+        static void eje4()
+        {
+            // esto es ejemplo xd 2
         }
    
         static void Ejemplo5()
@@ -106,11 +112,6 @@ namespace For_dowhile_refuerzo
             Console.WriteLine($"El prom. de los pares : {promPares}");
             Console.ReadKey();
 
-        }
-
-        static void eje6()
-        {
-            //este es un pinche ejemplo de prueba xd
         }
 
         static void Menu()
