@@ -16,13 +16,13 @@ namespace For_dowhile_refuerzo
         static void eje1()
         {
             int i;
-            double cubo;
+            double cuadrado;
 
             for (i = 1; i <= 5; i++)
             {
                 Console.WriteLine("El contador es " + i);
-                cubo = Math.Pow(i, 3);
-                Console.WriteLine("El cubo de ese valor es " + cubo);
+                cubo = Math.Pow(i, 2);
+                Console.WriteLine("El cubo de ese valor es " + cuadrado);
                 Console.WriteLine("-----------------------------");
             }
 
