@@ -1,5 +1,5 @@
-# Segunda_Fase_Proyecto
-En este repositorio se pueden encontrar los siguientes elementos: 
+                                                               # Segunda_Fase_Proyecto
+                                          En este repositorio se pueden encontrar los siguientes elementos: 
 
 ![image](https://user-images.githubusercontent.com/79995182/115089981-d773aa80-9ed0-11eb-9057-cbb1d840ff46.png)
 
