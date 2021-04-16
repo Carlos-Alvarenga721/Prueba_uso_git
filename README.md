@@ -1,7 +1,7 @@
 # Segunda_Fase_Proyecto
 En este repositorio se pueden encontrar los siguientes elementos: 
 
-![Uploading image.png…]()
+
 
 
 
