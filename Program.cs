@@ -79,7 +79,12 @@ namespace For_dowhile_refuerzo
         {
             // esto es ejemplo xd 2
         }
-   
+        
+        static void eje 4.2()
+        {
+        // esto es un ejemplo de pasar el codigo que hice en github a VS de  mi local
+        }
+            
         static void Ejemplo5()
         {
             /*
