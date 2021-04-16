@@ -1,5 +1,10 @@
 # Segunda_Fase_Proyecto
-En este repositorio se pueden encontrar los siguientes elementos:  
+En este repositorio se pueden encontrar los siguientes elementos: 
+
+![Uploading image.png…]()
+
+
+
 1) Los integrantes del trabajo, con su número de grupo teórico  
 
 2) Link Manual de usuario  
