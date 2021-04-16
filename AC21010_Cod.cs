@@ -10,7 +10,8 @@ namespace AC21010
     {
         static void Main(string[] args)
         {
-            GUIA4_10();           
+            GUIA4_10(); 
+            GUIA4_9();     
         }
 
         static void ejemplo_m2()
