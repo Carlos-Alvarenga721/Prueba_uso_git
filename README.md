@@ -1,3 +1,4 @@
+
  # *Segunda Fase Proyecto*
  _En este repositorio se pueden encontrar los siguientes elementos:_ 
 
@@ -17,4 +18,5 @@ https://www.youtube.com/watch?v=hruqhM2Axnc&list=RDhruqhM2Axnc&start_radio=1
 
 5)PDF DEL PROYECTO
 
+[proyectoPOO_Fase1.pdf](https://github.com/Carlos-Alvarenga721/Prueba_uso_git/files/7158543/proyectoPOO_Fase1.pdf)
 
