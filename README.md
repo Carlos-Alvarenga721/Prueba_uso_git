@@ -15,4 +15,6 @@
 5) Link del video con el funcionamiento
 https://www.youtube.com/watch?v=hruqhM2Axnc&list=RDhruqhM2Axnc&start_radio=1
 
+5)PDF DEL PROYECTO
+file:///C:/Users/ialva/Downloads/proyectoPOO_Fase1.pdf
 
