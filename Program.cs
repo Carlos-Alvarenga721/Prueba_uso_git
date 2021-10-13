@@ -1,3 +1,4 @@
+
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,13 +17,13 @@ namespace For_dowhile_refuerzo
         static void eje1()
         {
             int i;
-            double cubo;
+            double cuadrado;
 
             for (i = 1; i <= 5; i++)
             {
                 Console.WriteLine("El contador es " + i);
-                cubo = Math.Pow(i, 3);
-                Console.WriteLine("El cubo de ese valor es " + cubo);
+                cubo = Math.Pow(i, 2);
+                Console.WriteLine("El cubo de ese valor es " + cuadrado);
                 Console.WriteLine("-----------------------------");
             }
 
@@ -79,13 +80,7 @@ namespace For_dowhile_refuerzo
         {
             // esto es ejemplo xd 2
         }
-        
-        static void eje 4.2()
-        {
-        /*esto es un ejemplo de pasar el codigo que hice en github a VS de  mi local
-            y pues sigo probando porque aun tengo errores*/
-        }
-            
+   
         static void Ejemplo5()
         {
             /*
@@ -126,7 +121,7 @@ namespace For_dowhile_refuerzo
             do
             {
                 Console.Clear();
-                Console.WriteLine("-- MENU PRINCIPAL DEL PROGRAMA --");
+                Console.WriteLine("-- MENU PRINCIPAL --");
                 Console.WriteLine("a- Seno de x");
                 Console.WriteLine("b- Conseno de x");
                 Console.WriteLine("c- Tangente de x");
@@ -200,3 +195,4 @@ namespace For_dowhile_refuerzo
         }
     }
 }
+
