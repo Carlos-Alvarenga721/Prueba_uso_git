@@ -82,7 +82,8 @@ namespace For_dowhile_refuerzo
         
         static void eje 4.2()
         {
-        // esto es un ejemplo de pasar el codigo que hice en github a VS de  mi local
+        /*esto es un ejemplo de pasar el codigo que hice en github a VS de  mi local
+            y pues sigo probando porque aun tengo errores*/
         }
             
         static void Ejemplo5()
@@ -125,7 +126,7 @@ namespace For_dowhile_refuerzo
             do
             {
                 Console.Clear();
-                Console.WriteLine("-- MENU PRINCIPAL --");
+                Console.WriteLine("-- MENU PRINCIPAL DEL PROGRAMA --");
                 Console.WriteLine("a- Seno de x");
                 Console.WriteLine("b- Conseno de x");
                 Console.WriteLine("c- Tangente de x");
